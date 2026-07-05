@@ -1,0 +1,6 @@
+{
+  "name": "Interview Graph",
+  "description": "A visual tracker for technical interview readiness and core competencies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
