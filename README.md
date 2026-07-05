@@ -21,7 +21,6 @@ OperationWhere it's usedrememberIngest DSA solutions, resume versions, and job d
 
 Tech
 
-
 Cognee Cloud (cognee.serve(), remember, recall, forget) — no self-hosted infra
 Streamlit for the UI (app.py)
 seed_data.py to bulk-load real DSA solutions / resumes / JDs before the demo
